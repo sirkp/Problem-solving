@@ -1,0 +1,110 @@
+<p>Which one of following is not the vector quantity?</p>
+<p>torque</p>
+<p>displacement</p>
+<p>velocity</p>
+<p>speed</p>
+4
+<p>speed is the quantity which requires only magnitude <br>Answer: (d) </p>
+
+
+<p>Dimension of torque are  [AFMC 1997]</p>
+<p>[ M<span class="sup">2</span> L<span class="sup">2</span> T<span class="sup">2</span> ]</p>
+<p>[ M L<span class="sup">2</span> T<span class="sup">-2</span> ]</p>
+<p>[ M L<span class="sup">2</span> T<span class="sup">-1</span> ]</p>
+<p>[ M L<span class="sup">2</span> T<span class="sup">-1</span> ]</p>
+2
+<p> Torque = I × α = [  ML<span class="sup">2</span> ]×1/[ T<span class="sup">2</span> ]<br>
+= [M L<span class="sup">2</span> T<span class="sup">-2</span> ]</p>
+
+
+<p>The number of significant figures in 3400 is</p>
+<p>7</p>
+<p>6</p>
+<p>12</p>
+<p>2</p>
+4
+<p>The number of significant figures in 3400 is 2 <br>Answer: (d)</p>
+
+
+<p>Weber/m<span class="sup">2</span> is equal to</p>
+<p>dyne</p>
+<p>tesla</p>
+<p>watt</p>
+<p>henry</p>
+2
+<p>Weber/m<span class="sup">2</span> is the unit of magnetic field which is equal to tesla.</p>
+
+
+<p>The spectrum produced by white light is</p>
+<p>Emission spectrum</p>
+<p>Continuous spectrum</p>
+<p>Absorption spectrum</p>
+<p>Both emission and continuous spectrum</p>
+2
+<p>A continuous spectrum contains many different colors, or wavelengths, with no gaps. Perfectly white light shined through a prism causes dispersion of the light, and we see a rainbow.<br>
+when a gas is heated, the atoms in the gas absorb the energy and emit light, and an emission spectrum results.</p>
+
+
+<p>100ml of PH<sub>3</sub> when decompsed produces phosphorus and hydrogen. The change in volume is  .... [ CPMT 1986]</p>
+<p>50 ml increase</p>
+<p>500 ml decrease</p>
+<p>900 ml decrease</p>
+<p>nil</p>
+1
+<p>2PH<span class="sub">3</span> → 2P + 3H<span class="sub">2</span> <br>P is solid, And two moles of PH<span class="sub">3</span> decomposes to produce 3 mole of hydrogen<br> Thus 100 ml will produce 150ml of hydrogen<br>Increase is 50ml <br>Answer: (a)</p>
+
+
+<p>Tyndall effect can be observed in [AFMC 1999]</p>
+<p>colloidal solution</p>
+<p>solvent</p>
+<p>soluted</p>
+<p>precipitate</p>
+1
+<p>Tyndall effect is scattering of light due to colloidal particles. Because of which path of light is visible.<br> Answer: (a)</p>
+
+
+<p>One mole of a substance is present in 1 kg of solvent. The correct statement regarding above solution is [AFMC 1998]</p>
+<p>Strength gm/gm</p>
+<p>It shows molar concentration</p>
+<p>Molal concentration</p>
+<p>Normality</p>
+3
+<p>Molality is Number of moles per kg of solvent <br>Answer: (c)</p>
+
+
+<p>Identify the correct statement with reference to human digestive system. [NEET 2020 ]</p>
+<p>IIeum is a highly coiled part</p>
+<p>Vermiform appendix arises from duodenum</p>
+<p>IIeum opens into small intestine</p>
+<p>Serosa is the innermost layer of the alimentary canal</p>
+1
+<p>The appendix originates from the posteromedial aspect of the cecum.<br> The ileum is the last of the three parts of the small intestine. The transition from the jejunum to the ileum is not sharply marked, while at the distal end, the ileum opens into the cecum.<br> The mucosa is the innermost layer of the gastrointestinal tract <br>Answer:(a)</p>
+
+
+<p>The enzyme enterokinase helps in conversion of .. [NEET 2020]</p>
+<p>caseinogen into casein</p>
+<p>pepsinogen into pepsin</p>
+<p>protein into polypeptides</p>
+<p>trypsinogen into trypsin</p>
+2
+<p>Enterokinase, proteolytic enzyme (q.v.), secreted from the duodenal mucosa, that changes the inactive pancreatic secretion trypsinogen into trypsin <br> Answer : (b)</p>
+
+
+<p>Which of the following terms describe human dentition ? [NEET 2018</p>
+<p>Pleurodont, Monophyodont, Homodont</p>
+<p>Thecodont, Diphyodont, Heterodont</p>
+<p>Thecodont, Diphyodont, Homodont</p>
+<p>Pleurodont, Diphyodont, Heterodont</p>
+2
+<p>human teeth have all of these characteristic that’s why their dentition refers to as thecodont, heterodont and diphyodont.<br> Thecodont having the teeth inserted in sockets.<br> heterodont: having the teeth differentiated into incisors, canines, and molars.<br> Diphyodont is a type of dentition in which two successive sets of teeth are developed during the lifetime of the organism. The first set of teeth is deciduous and the other set is permanent. <br>   Answer : (b)</p>
+
+
+<p>Identify the cells whose secretion protects the lining of gastro-intestinal tract from various enzymes. [NEET 2019]</p>
+<p>Chief Cells</p>
+<p>Goblet Cells</p>
+<p>Oxyntic Cells</p>
+<p>Duodenal Cells</p>
+2
+<p>The primary function of goblet cells is to synthesize and secrete mucin and create a protective mucus layer <br>Answer : (b)</p>
+
+
